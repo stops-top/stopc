@@ -1,4 +1,4 @@
-﻿[![sites](docs/yimi.png)](http://www.os-q.com)
+﻿[![sites](docs/os-q.png)](http://www.os-q.com)
 
 # Q1:边缘节点
 
@@ -8,15 +8,14 @@ OS-Q系统对接物理世界的前沿阵地，相关运行在嵌入式设备中�
 
 ---
 
-## 组成
+### 组成
 
+- FreeRTOS
 
 
 ---
-## 说明
+
+### 说明
 
 2018-10-17: 创建工程
 
----
-
-## 为锻造最美之器
