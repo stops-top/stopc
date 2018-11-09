@@ -1,29 +1,52 @@
-﻿[![sites](docs/os-q.png)](http://www.os-q.com)
+﻿# Q1:[OS-Q 控制节点](https://github.com/OS-Q/Q1) 
 
-# Q1:[OS-Q边缘控制节点](https://github.com/OS-Q/Q1) 
+控制节点在OS-Q系统中连接物理世界
 
-### 简介
+[![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
 
-OS-Q系统的底层驱动，数据的生成前线和消费前线，拥有数据巨大，分布广泛的嵌入式设备，通过各种途径互相连接。
-
----
-
-### 组成
-
-- uCOSIII
-
-uCOSIII代码驱动的系统
-
-- FreeRTOS
-
-基于FreeRTOS代码开发的系统任务，用于执行相关的数据工作，需要对接的接口通过系统层标准化
-
-- RTX
-
+#### 更多关于：[OS-Q](https://github.com/OS-Q/OS-Q) 可访问 www.OS-Q.com
 
 ---
 
-### 说明
+## 简介
 
-2018-10-17: 创建工程
+OS-Q系统的底层通信连接，数据的生成前线和消费前线，运行在数据巨大分布广泛的嵌入式设备
+
+---
+
+## 组成
+
+### M1 板上通信
+
+#### W1 UART通信
+
+#### W2 IIC通信
+
+#### W3 SPI通信
+
+#### W4 GPIO通信
+
+### M2 线缆通信
+
+#### W1 USB通信
+
+#### W2 RS485通信
+
+#### W3 RS232通信
+
+#### W4 RJ45通信
+
+### M3 射频通信
+
+#### W1 BLE通信
+
+#### W2 SUB1G通信
+
+#### W3 IR通信
+
+#### W4 RFID通信
+
+---
+
+##  www.OS-Q.com   |   qitas@qitas.cn
 
