@@ -1,50 +1,40 @@
-﻿# Q1:[OS-Q 控制节点](https://github.com/OS-Q/Q1) 
+﻿# Q1:[OS-Q控制系统](https://github.com/OS-Q/Q1) 
 
-控制节点在OS-Q系统中连接物理世界
+控制系统在OS-Q系统中用于驱动控制各级设备
 
 [![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
 
-#### 更多关于：[OS-Q](https://github.com/OS-Q/OS-Q) 可访问 www.OS-Q.com
+#### 数据分发：[Q4系统](https://github.com/OS-Q/Q4)
+
+#### 边缘计算：[Q3系统](https://github.com/OS-Q/Q3)
+
+#### 边缘网关：[Q2系统](https://github.com/OS-Q/Q2)
+
+#### 更多关于：[OS-Q系统](https://github.com/OS-Q/OS-Q)可访问 www.OS-Q.com
 
 ---
 
 ## 简介
 
-OS-Q系统的底层通信连接，数据的生成前线和消费前线，运行在数据巨大分布广泛的嵌入式设备
+Q1系统在于对底层设备的控制，处于数据的生产和消费的前线
 
 ---
 
 ## 组成
 
-### M1 板上通信
+#### [M1低成本](https://github.com/OS-Q/M1)
 
-#### W1 UART通信
+具有极低成本的控制节点，能够完成简单多样化的任务
 
-#### W2 IIC通信
+#### [M2高性价比](https://github.com/OS-Q/M2)
 
-#### W3 SPI通信
+具有性价比的控制解决方案，功能全面，开发成本低
 
-#### W4 GPIO通信
+#### [M3高性能](https://github.com/OS-Q/M3)
 
-### M2 线缆通信
+具有高性能的控制解决方案，针对不同性能需求进行强化
 
-#### W1 USB通信
 
-#### W2 RS485通信
-
-#### W3 RS232通信
-
-#### W4 RJ45通信
-
-### M3 射频通信
-
-#### W1 BLE通信
-
-#### W2 SUB1G通信
-
-#### W3 IR通信
-
-#### W4 RFID通信
 
 ---
 
