@@ -2,17 +2,17 @@
 
 [![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
 
-用于执行Q系统的数据生产和消费的设备体系
+用于执行Q系统的数据生产和消费的边缘体系
 
-#### 属于边缘设备：[Edge](https://github.com/OS-Q/Edge-Q)
+#### 关于边缘设备：[Edge](https://github.com/OS-Q/Edge-Q)
 
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
 
 ---
 
-## [体系简介](https://github.com/OS-Q/Q1/wiki) 
+## [体系描述](https://github.com/OS-Q/Q1/wiki) 
 
-Q1边缘控制体系，用于对底层设备实施编程控制，处于数据的生产和消费的前线
+Q1边缘控制体系，用于对底层设备实施控制，和物理世界交互，处于数据的生产和消费的最前端
 
 ### 共用资源
 
@@ -24,30 +24,28 @@ Q1边缘控制体系，用于对底层设备实施编程控制，处于数据的
 
 ## [包含节点](https://github.com/OS-Q/Q1/wiki/index) 
 
-#### M1:[极低成本](https://github.com/OS-Q/M1)
+#### M1:[离线控制](https://github.com/OS-Q/M1)
 
-具有极低BOM成本的控制节点，完成简单多样化的任务
+离线控制节点，编程完成后不再接收控制指令
 
-#### M2:[高性价比](https://github.com/OS-Q/M2)
+#### M2:[协同控制](https://github.com/OS-Q/M2)
 
-具有极高性价比的控制节点，功能全面，开发成本低
+和其他节点或设备拼接，协同完成控制行为
 
-#### M3:[超高性能](https://github.com/OS-Q/M3)
+#### M3:[无线控制](https://github.com/OS-Q/M3)
 
-具很高性能和针对性的控制节点，针对不同需求强化
+通过无线方式接入数据完成行为交互
 
 ---
 
 ## [同级体系](https://github.com/OS-Q/Q1/wiki/index)
 
-#### 弹性计算：[Q4](https://github.com/OS-Q/Q4)
-
-#### 边缘计算：[Q3](https://github.com/OS-Q/Q3)
-
-#### 边缘通信：[Q2](https://github.com/OS-Q/Q2)
+#### Q2：[边缘通信](https://github.com/OS-Q/Q2)
+#### Q3：[边缘计算](https://github.com/OS-Q/Q3)
+#### Q4：[弹性计算](https://github.com/OS-Q/Q4)
 
 ---
 
 ###  [Q redefined the scope of operation system](http://www.OS-Q.com)
 ###  qitas@qitas.cn
-#### 2018-11-27
+###  2018-11-28
