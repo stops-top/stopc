@@ -2,8 +2,6 @@
 
 [![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
 
-用于执行Q系统的数据生产和消费的边缘体系
-
 #### 关于边缘设备：[Edge](https://github.com/OS-Q/Edge-Q)
 
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
@@ -36,14 +34,24 @@ Q1边缘控制体系，用于对底层设备实施控制，和物理世界交互
 
 通过无线方式接入数据完成行为交互
 
----
+## [Q体系](https://github.com/OS-Q/Edge-Q/wiki/Q)
 
-## [设备体系](https://github.com/OS-Q/Edge-Q/wiki/Q)
+#### -> Q1：[边缘控制](https://github.com/OS-Q/Q1) 
 
-#### Q1：[边缘控制](https://github.com/OS-Q/Q1) 
+用于执行Q系统数据生产消费的边缘设备体系
+
 #### Q2：[边缘通信](https://github.com/OS-Q/Q2)
+
+用于执行Q系统数据转移运输的边缘设备体系
+
 #### Q3：[边缘计算](https://github.com/OS-Q/Q3)
+
+用于执行Q系统数据处理加工的边缘设备体系
+
 #### Q4：[弹性计算](https://github.com/OS-Q/Q4)
+
+用于支撑Q系统临时资源需求的边缘设备体系
+
 ---
 
 ###  [Q redefined the scope of operation system](http://www.OS-Q.com)
