@@ -38,12 +38,12 @@ Q1边缘控制体系，用于对底层设备实施控制，和物理世界交互
 
 ---
 
-## [同级体系](https://github.com/OS-Q/Q1/wiki/index)
+## [设备体系](https://github.com/OS-Q/Edge-Q/wiki/Q)
 
+#### Q1：[边缘控制](https://github.com/OS-Q/Q1) 
 #### Q2：[边缘通信](https://github.com/OS-Q/Q2)
 #### Q3：[边缘计算](https://github.com/OS-Q/Q3)
 #### Q4：[弹性计算](https://github.com/OS-Q/Q4)
-
 ---
 
 ###  [Q redefined the scope of operation system](http://www.OS-Q.com)
