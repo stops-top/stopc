@@ -2,7 +2,7 @@
 
 [![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
 
-#### 关于边缘设备：[Edge](https://github.com/OS-Q/Edge-Q)
+#### 归属边缘设备：[Edge](https://github.com/OS-Q/Edge-Q)
 
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
 
@@ -10,21 +10,21 @@
 
 ## [体系描述](https://github.com/OS-Q/Q1/wiki) 
 
-Q1边缘控制体系，用于对底层设备实施控制，和物理世界交互，处于数据的生产和消费的最前端
+Q1边缘控制体系，用于对底层设备实施监控和管理，设备主要面向物理世界，处于数据的生产和消费的最前端，通过通信和计算协同接入系统其他资源。
 
 ### [共用资源](https://github.com/OS-Q/Q1/wiki)
 
-#### [通信协同接口](Q2/README.md)
+#### [通信协同接口](Q2/)
 
-Q1节点和Q2节点协同工作实现
+Q1控制体系和Q2通信体系协同相关规范
 
-#### [计算协同接口](Q3/README.md)
+#### [计算协同接口](Q3/)
 
-Q1节点和Q3节点协同工作实现
+Q1控制体系和Q3计算体系协同相关规范
 
 ---
 
-边缘设备命名规则：体系 Q[1,4] > 节点 M[1,12] > 平台 W[1,52] > 设备 D[1,365]。
+- 边缘设备统一命名规则：体系 Q:[1,4] -> 节点 M:[1,12] -> 平台 W:[1,52] -> 设备 D:[1,365]。
 
 ## [包含节点](https://github.com/OS-Q/Q1/wiki/) 
 
@@ -60,6 +60,6 @@ Q1节点和Q3节点协同工作实现
 
 ---
 
-###  qitas@qitas.cn
+####  qitas@qitas.cn
 ###  [Q redefined the scope of Operation System](http://www.OS-Q.com)
 ####  2018-12-7
