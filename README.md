@@ -1,4 +1,4 @@
-﻿# Q1:[边缘控制](https://github.com/OS-Q/Q1) 
+﻿# Q1：[边缘控制](https://github.com/OS-Q/Q1) 
 
 [![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
 
@@ -14,11 +14,11 @@ Q1边缘控制体系，用于对底层设备实施监控和管理，设备主要
 
 ### [共用资源](https://github.com/OS-Q/Q1/wiki)
 
-#### [通信协同接口](Q2/)
+#### [通信协同规范](Q2/)
 
 Q1控制体系和Q2通信体系协同相关规范
 
-#### [计算协同接口](Q3/)
+#### [计算协同规范](Q3/)
 
 Q1控制体系和Q3计算体系协同相关规范
 
@@ -28,17 +28,17 @@ Q1控制体系和Q3计算体系协同相关规范
 
 ## [包含节点](https://github.com/OS-Q/Q1/wiki/) 
 
-#### M1：[嵌入控制](https://github.com/OS-Q/M1)
+#### M1：[输入控制](https://github.com/OS-Q/M1)
 
-嵌入被控制设备中，依托被控制设备资源运行(小)
+控制外接信号输入，完成数据采集过程
 
-#### M2：[协同控制](https://github.com/OS-Q/M2)
+#### M2：[输出控制](https://github.com/OS-Q/M2)
 
-协同其他节点或设备协同完成相应的控制行为(同)
+控制对外信号输出，完成数据消费过程
 
 #### M3：[集成控制](https://github.com/OS-Q/M3)
 
-集成相关资源，可以外接扩展其他节点或设备(大)
+集成相关资源，组合完成预定控制逻辑
 
 ## [设备体系](https://github.com/OS-Q/Edge-Q/wiki/)
 
