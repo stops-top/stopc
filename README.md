@@ -28,19 +28,19 @@ Q1控制体系和Q3计算体系协同相关规范
 
 ## [包含节点](https://github.com/OS-Q/Q1/wiki/) 
 
-#### M1：[输入控制](https://github.com/OS-Q/M1)
+#### M1：[信号采集](https://github.com/OS-Q/M1)
 
 控制外接信号输入，完成数据采集过程
 
-#### M2：[输出控制](https://github.com/OS-Q/M2)
+#### M2：[数据输出](https://github.com/OS-Q/M2)
 
 控制对外信号输出，完成数据消费过程
 
-#### M3：[集成控制](https://github.com/OS-Q/M3)
+#### M3：[闭环控制](https://github.com/OS-Q/M3)
 
-集成相关资源，组合完成预定控制逻辑
+集成相关资源，组合完成预定闭环控制
 
-## [设备体系](https://github.com/OS-Q/Edge-Q/wiki/)
+## [同级体系](https://github.com/OS-Q/Edge-Q/wiki/)
 
 #### [Q1：边缘控制](https://github.com/OS-Q/Q1) 
 
