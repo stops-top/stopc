@@ -4,7 +4,8 @@
 
 ### [Kingdom描述](https://github.com/OS-Q/Q1/wiki) 
 
- Q[4] - M[12] - W[52] - D[365] - H[24] - N[60] - S[60]
+* Q[4] - M[12] - W[52] - D[365] - H[24] - N[60] - S[60]
+* Kingdom - Dividion(D) - Class(C) - Order(V) - Family(U) - Genus(T) - Species(B) 
 
 [Kingdom Q1](https://github.com/OS-Q/Q1) 面向低成本简单逻辑的8位处理器资源
 
