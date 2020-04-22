@@ -1,11 +1,11 @@
-﻿# [Kingdom Q1](https://github.com/OS-Q/Q1)
+﻿# [Dividion Q1](https://github.com/OS-Q/Q1)
 
 [![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-### [Kingdom描述](https://github.com/OS-Q/Q1/wiki) 
-
 * Q[4] - M[12] - W[52] - D[365] - H[24] - N[60] - S[60]
 * Kingdom - Dividion(Q) - Class(M) - Order(H) - Family(U) - Genus(T) - Species(B) 
+
+### [Dividion描述](https://github.com/OS-Q/Q1/wiki) 
 
 [Dividion Q1](https://github.com/OS-Q/Q1) 面向低成本极简8位处理器
 
