@@ -1,12 +1,12 @@
-﻿# [Category Q1](https://github.com/OS-Q/Q1)
+﻿# [Kingdom Q1](https://github.com/OS-Q/Q1)
 
 [![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-### [Category描述](https://github.com/OS-Q/Q1/wiki) 
+### [Kingdom描述](https://github.com/OS-Q/Q1/wiki) 
 
  Q[4] - M[12] - W[52] - D[365] - H[24] - N[60] - S[60]
 
-[Category Q1](https://github.com/OS-Q/Q1) 面向低成本简单逻辑的8位处理器资源
+[Kingdom Q1](https://github.com/OS-Q/Q1) 面向低成本简单逻辑的8位处理器资源
 
 
 ### [拓扑关系](https://github.com/OS-Q)
