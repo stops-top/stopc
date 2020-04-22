@@ -5,10 +5,9 @@
 ### [Kingdom描述](https://github.com/OS-Q/Q1/wiki) 
 
 * Q[4] - M[12] - W[52] - D[365] - H[24] - N[60] - S[60]
-* Kingdom - Dividion(D) - Class(C) - Order(V) - Family(U) - Genus(T) - Species(B) 
+* Kingdom - Dividion(Q) - Class(M) - Order(H) - Family(U) - Genus(T) - Species(B) 
 
-[Kingdom Q1](https://github.com/OS-Q/Q1) 面向低成本简单逻辑的8位处理器资源
-
+[Dividion Q1](https://github.com/OS-Q/Q1) 面向低成本极简8位处理器
 
 ### [拓扑关系](https://github.com/OS-Q)
 
@@ -25,7 +24,7 @@
 * Q2：[Universal MCU](https://github.com/OS-Q/Q2)
     * M04：[Cortex](https://github.com/OS-Q/M04)
         * H07：[STM32](https://github.com/OS-Q/H07)
-        * H08：[GD32F]](https://github.com/OS-Q/H08)
+        * H08：[GD32F](https://github.com/OS-Q/H08)
     * M05：[RISC-V](https://github.com/OS-Q/M05)
         * H09：[GD32V](https://github.com/OS-Q/H09)
         * H10：[K210](https://github.com/OS-Q/H10)
