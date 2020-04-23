@@ -7,11 +7,11 @@
 
 ### [Dividion描述](https://github.com/OS-Q/Q1/wiki) 
 
-[Dividion Q1](https://github.com/OS-Q/Q1) 面向低成本极简8位处理器
+[Dividion Q1](https://github.com/OS-Q/Q1) 低成本极简控制器
 
 ### [拓扑关系](https://github.com/OS-Q)
 
-* Q1：[Low end 8bits](https://github.com/OS-Q/Q1)
+* Q1：[Low end](https://github.com/OS-Q/Q1)
     * M01：[8051](https://github.com/OS-Q/M01)
         * H01：[STC](https://github.com/OS-Q/H01)
         * H02：[WCH](https://github.com/OS-Q/H02)
@@ -19,12 +19,12 @@
         * H03：[STM8S](https://github.com/OS-Q/H03)
         * H04：[STM8L](https://github.com/OS-Q/H04)
     * M03：[AVR](https://github.com/OS-Q/M03)
-        * H05：[ATMEGA328P](https://github.com/OS-Q/H05)
-        * H06：[LGT8F328P](https://github.com/OS-Q/H06)
+        * H05：[MEGA](https://github.com/OS-Q/H05)
+        * H06：[LGT](https://github.com/OS-Q/H06)
 * Q2：[Universal MCU](https://github.com/OS-Q/Q2)
     * M04：[Cortex](https://github.com/OS-Q/M04)
         * H07：[STM32](https://github.com/OS-Q/H07)
-        * H08：[GD32F](https://github.com/OS-Q/H08)
+        * H08：[GD32E](https://github.com/OS-Q/H08)
     * M05：[RISC-V](https://github.com/OS-Q/M05)
         * H09：[GD32V](https://github.com/OS-Q/H09)
         * H10：[K210](https://github.com/OS-Q/H10)
@@ -42,14 +42,14 @@
         * H17：[8909](https://github.com/OS-Q/H17)
         * H18：[8910](https://github.com/OS-Q/H18)    
 * Q4：[Normal computer](https://github.com/OS-Q/Q4)
-    * M10：[arm](https://github.com/OS-Q/M10)
-        * H19：[armv7](https://github.com/OS-Q/H15)
-        * H20：[armv8](https://github.com/OS-Q/H16)    
+    * M10：[Android](https://github.com/OS-Q/M10)
+        * H19：[arm](https://github.com/OS-Q/H15)
+        * H20：[x64](https://github.com/OS-Q/H16)    
     * M11：[linux](https://github.com/OS-Q/M11)
-        * H21：[x86](https://github.com/OS-Q/H15)
+        * H21：[arm](https://github.com/OS-Q/H15)
         * H22：[x64](https://github.com/OS-Q/H16)    
     * M12：[window](https://github.com/OS-Q/M12)
-        * H23：[x86](https://github.com/OS-Q/H15)
-        * H24：[x64](https://github.com/OS-Q/H16)    
+        * H23：[arm](https://github.com/OS-Q/H15)
+        * H24：[x64](https://github.com/OS-Q/H16)   
 
 ### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/Q1)
