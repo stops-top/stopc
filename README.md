@@ -15,10 +15,10 @@ Arduino应用类库：https://www.arduinolibraries.info
 ### [相关](https://github.com/OS-Q)
 
 * Q1：[Arduino](https://github.com/OS-Q/Q1)
-    * M01：[maple](https://github.com/OS-Q/M01)
+    * M01：[arduino](https://github.com/OS-Q/M01)
     * M02：[maple](https://github.com/OS-Q/M02)
     * M03：[energia](https://github.com/OS-Q/M03)
-* Q2：[RTOS]](https://github.com/OS-Q/Q2)
+* Q2：[RTOS](https://github.com/OS-Q/Q2)
     * M04：[freeRTOS](https://github.com/OS-Q/M04)
     * M05：[RTT](https://github.com/OS-Q/M05)
     * M06：[Zephyr](https://github.com/OS-Q/M06)
